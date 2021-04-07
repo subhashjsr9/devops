@@ -1,1 +1,1 @@
-"this is content of fileB" 
+"this is content of fileB version1-branch" 
